@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "Keryann28XD.aternos.me:23801",
+    "port": 23801,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Je suis un joueur normal !",
+        "Abonne toi à Keryann28XD sur youtube!",
+        "je te regarde la nuit..."
       ]
     },
     "chat-log": true,
@@ -58,7 +58,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 45
     }
   },
   "modules": {
